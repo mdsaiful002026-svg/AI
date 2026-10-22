@@ -1,0 +1,15 @@
+{
+  "name": "Aura Trading Voice Assistant",
+  "version": "2.0.0",
+  "engine": "Gemini 3.8 Flash + Gemini 3.8 Flash Lite TTS",
+  "features": [
+    "100% Definitive Signal Engine (No Disclaimers)",
+    "Pair & Timeframe Context Spoken Announcement",
+    "Anti-Echo Bengali Voice AI",
+    "Live Quotex Screen Capture & Frame Processing",
+    "20-Second Early Signal Warning Alert",
+    "Visual Laser Scanner",
+    "20-25 Candlestick History Analysis"
+  ],
+  "exportTimestamp": "2026-10-22T11:43:51.385Z"
+}
